@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="324">
+        <Style id="327">
+            <IconStyle id="328">
+                <color>ff8080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="329">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="332">
+            <IconStyle id="333">
+                <color>ff8080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="334">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="337">
+            <IconStyle id="338">
+                <color>ff8080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="339">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="342">
+            <IconStyle id="343">
+                <color>ff8080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="344">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="347">
+            <IconStyle id="348">
+                <color>ff8080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="349">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="326">
+            <name>モナコパビリオン</name>
+            <description>■テーマ: 海と共に生きる公国 ■体験: 小規模ながら海洋保護の取り組みを紹介 ■Tips: 待ち時間ほぼなしで入場可 ■グルメ: モナコワインの試飲ができる ■豆知識: グレース公妃の写真展示も</description>
+            <styleUrl>#327</styleUrl>
+            <Point id="325">
+                <coordinates>135.3838131,34.6513718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="331">
+            <name>マルタパビリオン</name>
+            <description>■テーマ: 地中海の宝石 ■体験: 世界遺産都市や騎士団の歴史紹介の小展示 ■Tips: 常時空いていて気軽に立ち寄れる ■グルメ: マルタ伝統菓子カンノーリの試食あり ■豆知識: 騎士団の甲冑レプリカ展示が目を引く</description>
+            <styleUrl>#332</styleUrl>
+            <Point id="330">
+                <coordinates>135.3838473,34.6474113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="336">
+            <name>TECH WORLD</name>
+            <description>■テーマ: 未来ガレージ ■体験: 関西発ベンチャーの技術デモを展示 ■Tips: 待ち時間ゼロで気軽に入場可 ■グルメ: ガジェットデザインのお菓子を配布 ■豆知識: 最新ドローンの実機展示も</description>
+            <styleUrl>#337</styleUrl>
+            <Point id="335">
+                <coordinates>135.3823901,34.6523569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="341">
+            <name>飯田グループ×大阪公立大学共同出展館</name>
+            <description>■テーマ: 未来の住まい ■体験: 次世代住宅技術や学生アイデアを紹介 ■Tips: 空いていて休憩がてらのぞける ■グルメ: 最新住宅模型のパンフレット配布 ■豆知識: 学生プロジェクト展示がフレッシュ</description>
+            <styleUrl>#342</styleUrl>
+            <Point id="340">
+                <coordinates>135.381658,34.6520439,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="346">
+            <name>国際赤十字・赤新月運動館</name>
+            <description>■テーマ: 人道の歴史 ■体験: 災害救援の歴史資料やVR救助体験 ■Tips: 並ばず入れる穴場パビリオン ■グルメ: 非常食ビスケットの試供品配布あり ■豆知識: 世界各地の救援活動写真が展示</description>
+            <styleUrl>#347</styleUrl>
+            <Point id="345">
+                <coordinates>135.3842885,34.6478375,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

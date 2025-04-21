@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="58">
+        <Style id="61">
+            <IconStyle id="62">
+                <color>ff0080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="63">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="66">
+            <IconStyle id="67">
+                <color>ff0080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="68">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="71">
+            <IconStyle id="72">
+                <color>ff0080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="73">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="76">
+            <IconStyle id="77">
+                <color>ff0080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="78">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81">
+            <IconStyle id="82">
+                <color>ff0080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="83">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86">
+            <IconStyle id="87">
+                <color>ff0080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="88">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91">
+            <IconStyle id="92">
+                <color>ff0080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="93">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96">
+            <IconStyle id="97">
+                <color>ff0080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="98">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="101">
+            <IconStyle id="102">
+                <color>ff0080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="103">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="106">
+            <IconStyle id="107">
+                <color>ff0080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="108">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="111">
+            <IconStyle id="112">
+                <color>ff0080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="113">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="116">
+            <IconStyle id="117">
+                <color>ff0080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="118">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="121">
+            <IconStyle id="122">
+                <color>ff0080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="123">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="126">
+            <IconStyle id="127">
+                <color>ff0080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="128">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="131">
+            <IconStyle id="132">
+                <color>ff0080ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="133">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="60">
+            <name>スペインパビリオン</name>
+            <description>■テーマ: KUROSHIO（黒潮） ■体験: 太陽の広場と海洋シアターで地球と命の物語を体感 ■Tips: 海風演出のある涼しい午後が狙い目 ■グルメ: パエリアや生ハムを味わえるタパスバー併設 ■豆知識: 黒潮をイメージした波状デザインの建築</description>
+            <styleUrl>#61</styleUrl>
+            <Point id="59">
+                <coordinates>135.3830114,34.6512,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>オーストラリアパビリオン</name>
+            <description>■テーマ: Chasing the Sun ■体験: 先住民アートに彩られた豪州の大地を巡る体験 ■Tips: 伝統ダンス上演時間に合わせて訪問したい ■グルメ: オージービーフステーキやワインを楽しめる ■豆知識: ユーカリの花を模した布張り屋根が目印</description>
+            <styleUrl>#66</styleUrl>
+            <Point id="64">
+                <coordinates>135.3823134,34.6511583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="70">
+            <name>トルコパビリオン</name>
+            <description>■テーマ: 橋渡しする文明 ■体験: 古代遺跡と宇宙技術を融合したプロジェクションショー ■Tips: トルコアイスの実演販売は子どもに人気 ■グルメ: 名物ケバブやバクラヴァを味わえるカフェ併設 ■豆知識: オスマン様式のドーム天井が美しい</description>
+            <styleUrl>#71</styleUrl>
+            <Point id="69">
+                <coordinates>135.3836271,34.6515688,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>シンガポールパビリオン</name>
+            <description>■テーマ: Nature. Nurture. Future. ■体験: 熱帯雨林の緑と先端技術が調和した屋内ガーデン ■Tips: 真昼の暑い時間帯でも涼しく過ごせる癒しスポット ■グルメ: チキンライスやスリングカクテルなど名物料理を提供 ■豆知識: 館内に滝が流れる壮大なエコ建築</description>
+            <styleUrl>#76</styleUrl>
+            <Point id="74">
+                <coordinates>135.3802735,34.64906,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80">
+            <name>スイスパビリオン</name>
+            <description>■テーマ: Cycle of Innovation ■体験: アルプス山脈を模した迷路と滑り台で体感する冒険 ■Tips: 身軽な服装で訪れるとアトラクション満喫 ■グルメ: 濃厚チーズフォンデュやスイスチョコのカフェあり ■豆知識: 出口の巨大滑り台で大人も子どもも大興奮</description>
+            <styleUrl>#81</styleUrl>
+            <Point id="79">
+                <coordinates>135.3854371,34.6478774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>タイパビリオン</name>
+            <description>■テーマ: Sustainable Smile ■体験: 伝統舞踊ショーと最先端農業技術の融合展示 ■Tips: ショータイムを事前に確認してから入場 ■グルメ: 本場のトムヤムクンやマンゴーデザートが人気 ■豆知識: 黄金の寺院を模した壮麗な外観</description>
+            <styleUrl>#86</styleUrl>
+            <Point id="84">
+                <coordinates>135.3833621,34.65119,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90">
+            <name>ウーマンズ パビリオン in collaboration with Cartier</name>
+            <description>■テーマ: ともに生き、ともに輝く未来へ ■体験: 女性の力が創る未来を映像とアートで体感 ■Tips: 展示中心で回転早め。昼過ぎは比較的ゆったり ■グルメ: 高級感あるラウンジで紅茶やスイーツを提供 ■豆知識: ドバイ万博日本館の組子ファサードを再利用</description>
+            <styleUrl>#91</styleUrl>
+            <Point id="89">
+                <coordinates>135.3878229,34.6488484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>NTT Pavilion</name>
+            <description>■テーマ: つながる未来 ■体験: ホログラム通信や遠隔ロボ操作を体験できる ■Tips: 短編ショー形式で回転が早い ■グルメ: 最新AI案内ロボが案内するカフェスペースあり ■豆知識: 人間の分身アバター技術を世界初公開</description>
+            <styleUrl>#96</styleUrl>
+            <Point id="94">
+                <coordinates>135.3879369,34.6505893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100">
+            <name>三菱未来館</name>
+            <description>■テーマ: 未来への挑戦 ■体験: AI案内ロボと巡る宇宙船ツアーのシミュレーション ■Tips: 定員制シアターは早めの整理券確保を ■グルメ: テーマに合わせた宇宙食スナックの試食も ■豆知識: 水素エネルギーで動く未来の乗り物展示</description>
+            <styleUrl>#101</styleUrl>
+            <Point id="99">
+                <coordinates>135.3896021,34.6489521,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>よしもと waraii myraii館</name>
+            <description>■テーマ: 笑いの未来 ■体験: 最新技術で漫才に参加できる体験型お笑いステージ ■Tips: 公演スケジュールを要チェック。人気芸人回は要早並び ■グルメ: たこ焼き味ポップコーンなどユニークなおやつも販売 ■豆知識: 吉本新喜劇のセットを再現したフォトスポットあり</description>
+            <styleUrl>#106</styleUrl>
+            <Point id="104">
+                <coordinates>135.3796961,34.6498619,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110">
+            <name>ガスパビリオン おばけワンダーランド</name>
+            <description>■テーマ: みんなでワクワク！おばけの世界 ■体験: 炎のマジックや浮遊おばけに驚く体験型お化け屋敷 ■Tips: 子どもも楽しめるライトな怖さ。夕方以降は混みやすい ■グルメ: おばけ綿あめなどユニークなお菓子も販売 ■豆知識: 明治時代のガス灯を展示するコーナーも</description>
+            <styleUrl>#111</styleUrl>
+            <Point id="109">
+                <coordinates>135.3820897,34.6522268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>いのちの未来</name>
+            <description>■テーマ: 未来の生命 ■体験: 人間そっくりのアンドロイドと対話できる近未来体験 ■Tips: ロボット実演の時間帯に合わせて訪問 ■グルメ: ロボットバリスタが淹れる未来ドリンクを提供 ■豆知識: 石黒浩教授本人そっくりの分身ロボが出迎え</description>
+            <styleUrl>#116</styleUrl>
+            <Point id="114">
+                <coordinates>135.3837265,34.648524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="120">
+            <name>いのちの遊び場 クラゲ館</name>
+            <description>■テーマ: くらげに誘われて ■体験: クラゲの映像と音楽に包まれる癒しの没入空間 ■Tips: 小さな子ども連れにも人気の穏やかな展示 ■グルメ: くらげを模したゼリー飲料で一休みできる ■豆知識: 無数の発光クラゲが漂う幻想的な光景は必見</description>
+            <styleUrl>#121</styleUrl>
+            <Point id="119">
+                <coordinates>135.3836229,34.6480284,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>null^2</name>
+            <description>■テーマ: 鏡像の再発明 ■体験: 自分の身体がデジタル生命体に変容するインタラクティブ体験 ■Tips: 光の演出が際立つ夕方以降の入場がおすすめ ■グルメ: 昆虫由来の未来型ビスケットを試食できる ■豆知識: 落合陽一プロデュースの最先端メディアアート空間</description>
+            <styleUrl>#126</styleUrl>
+            <Point id="124">
+                <coordinates>135.3832009,34.6476897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="130">
+            <name>いのちめぐる冒険</name>
+            <description>■テーマ: 生命循環の旅 ■体験: ARゴーグルで体内や生態系を駆け巡る冒険アトラクション ■Tips: 親子で楽しめる迫力演出。午前より午後が比較的空く ■グルメ: 冒険の仲間キャラクターを模したお菓子がもらえる ■豆知識: マクロス監督・河森正治氏ならではの壮大な世界観</description>
+            <styleUrl>#131</styleUrl>
+            <Point id="129">
+                <coordinates>135.3826049,34.6482338,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

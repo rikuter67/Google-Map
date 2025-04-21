@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="135">
+        <Style id="138">
+            <IconStyle id="139">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="140">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="143">
+            <IconStyle id="144">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="145">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="148">
+            <IconStyle id="149">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="150">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="153">
+            <IconStyle id="154">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="155">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="158">
+            <IconStyle id="159">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="160">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="163">
+            <IconStyle id="164">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="165">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="168">
+            <IconStyle id="169">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="170">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="173">
+            <IconStyle id="174">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="175">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="178">
+            <IconStyle id="179">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="180">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="183">
+            <IconStyle id="184">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="185">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="188">
+            <IconStyle id="189">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="190">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="193">
+            <IconStyle id="194">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="195">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="198">
+            <IconStyle id="199">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="200">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="203">
+            <IconStyle id="204">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="205">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="208">
+            <IconStyle id="209">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="210">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="213">
+            <IconStyle id="214">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="215">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="218">
+            <IconStyle id="219">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="220">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="223">
+            <IconStyle id="224">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="225">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="228">
+            <IconStyle id="229">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="230">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="137">
+            <name>カナダパビリオン</name>
+            <description>■テーマ: Diversity by Design ■体験: 雄大な自然とAI技術を融合した360°シアター ■Tips: 上映スケジュールを確認して効率よく鑑賞 ■グルメ: メープルシロップスイーツやアイスワインを楽しめる ■豆知識: カナダ杉を活用した温もりある木造建築</description>
+            <styleUrl>#138</styleUrl>
+            <Point id="136">
+                <coordinates>135.3858814,34.6479534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="142">
+            <name>カタールパビリオン</name>
+            <description>■テーマ: 砂漠から未来へ ■体験: 砂漠都市の発展を描く迫力映像と伝統工芸展示 ■Tips: 夕刻のベドウィン音楽ライブに合わせ訪れると◎ ■グルメ: ベドウィンテント風カフェでカルダモンコーヒーを提供 ■豆知識: ダイヤモンド型の近未来建築が光を放つ</description>
+            <styleUrl>#143</styleUrl>
+            <Point id="141">
+                <coordinates>135.3863508,34.6484021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>オランダパビリオン</name>
+            <description>■テーマ: Grow Your World ■体験: 水と植物が織りなす垂直ガーデンを探検 ■Tips: 荷物はコインロッカーに預けて身軽に巡ろう ■グルメ: ゴーダチーズやストロープワッフルの試食ができる ■豆知識: 風車をイメージした巨大プロペラがシンボル</description>
+            <styleUrl>#148</styleUrl>
+            <Point id="146">
+                <coordinates>135.3804941,34.6487213,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="152">
+            <name>ベルギーパビリオン</name>
+            <description>■テーマ: Smart &amp; Sweet ■体験: チョコレート3Dプリンター実演や先端科学展示 ■Tips: 午後は混雑するので午前中の訪問がおすすめ ■グルメ: 本場のベルギーワッフルやビールの試飲が可能 ■豆知識: ブリュッセル万博のアトミウムを模したオブジェあり</description>
+            <styleUrl>#153</styleUrl>
+            <Point id="151">
+                <coordinates>135.3806921,34.6499053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>ポーランドパビリオン</name>
+            <description>■テーマ: Nature &amp; Music ■体験: 木製インスタレーションとショパンの調べに癒される空間 ■Tips: 生演奏タイムは座席確保を早めに ■グルメ: ジャガイモピエロギやハチミツ酒の屋台も楽しめる ■豆知識: ポーランド伝統の切り絵装飾が館内を彩る</description>
+            <styleUrl>#158</styleUrl>
+            <Point id="156">
+                <coordinates>135.3818373,34.6483759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="162">
+            <name>チェコパビリオン</name>
+            <description>■テーマ: 水から生まれる未来 ■体体験: 空気から水を生み出す魔法のガジェットを展示 ■Tips: 水生成デモの時間に合わせて訪れるとより楽しめる ■グルメ: チェコ産ピルスナービールとプレッツェルが味わえる ■豆知識: 世界最大級の大気水生成装置の動態展示は圧巻</description>
+            <styleUrl>#163</styleUrl>
+            <Point id="161">
+                <coordinates>135.3836269,34.647462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>オーストリアパビリオン</name>
+            <description>■テーマ: Composing the Future ■体験: 音楽で未来を描くインタラクティブ展示やライブ演奏 ■Tips: 館内コンサートの時間帯に合わせて訪問すると◎ ■グルメ: ウィーン風カフェでザッハトルテとコーヒーが味わえる ■豆知識: 渦巻き状のオブジェが音楽の旋律を表現</description>
+            <styleUrl>#168</styleUrl>
+            <Point id="166">
+                <coordinates>135.3852282,34.6480739,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="172">
+            <name>アゼルバイジャンパビリオン</name>
+            <description>■テーマ: Heritage Meets Innovation ■体験: コーカサスの自然美と最新技術を融合したシアター ■Tips: 内部は涼しく、休憩がてら訪れるのも◎ ■グルメ: ザクロジュースや串焼きシャシリクが味わえる ■豆知識: 世界遺産のカーペット柄をあしらった華麗な内装</description>
+            <styleUrl>#173</styleUrl>
+            <Point id="171">
+                <coordinates>135.384398,34.65081600000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>コロンビアパビリオン</name>
+            <description>■テーマ: 生命躍動 ■体験: 熱帯雨林の映像とコーヒーの香りに包まれる体験 ■Tips: 館内で踊るサンバショーは必見 ■グルメ: 名産コーヒーの試飲やアレパの屋台が人気 ■豆知識: カラフルな巨大オウムのオブジェがシンボル</description>
+            <styleUrl>#178</styleUrl>
+            <Point id="176">
+                <coordinates>135.3855397,34.647685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="182">
+            <name>インドネシアパビリオン</name>
+            <description>■テーマ: Nusantara Vibrance ■体験: 島々の文化と先端映像が融合した360度シアター ■Tips: 民族舞踊ショーの時間帯は混雑するので早めに ■グルメ: ナシゴレンやサテなどインドネシア料理を提供 ■豆知識: 外壁にバティック模様をあしらった南国風デザイン</description>
+            <styleUrl>#183</styleUrl>
+            <Point id="181">
+                <coordinates>135.3820163,34.6509986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="187">
+            <name>フィリピンパビリオン</name>
+            <description>■テーマ: Diversity of Waters ■体験: サンゴ礁をイメージした空間で島国の物語を体験 ■Tips: 夕方の音楽ライブは南国ムード満点 ■グルメ: 名物バナナ春巻きやマンゴージュースが楽しめる ■豆知識: 伝統船バンカを模した天井装飾が圧巻</description>
+            <styleUrl>#188</styleUrl>
+            <Point id="186">
+                <coordinates>135.3855233,34.64960689999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="192">
+            <name>住友館</name>
+            <description>■テーマ: 資源が織りなす未来 ■体験: 鉱石が未来のエネルギーに変わる迫力ショー ■Tips: 入館時に配布されるヘルメットを着用して楽しむ ■グルメ: オリジナルの鉱石キャンディをプレゼント ■豆知識: 住友財閥の歴史を映像で振り返るコーナーあり</description>
+            <styleUrl>#193</styleUrl>
+            <Point id="191">
+                <coordinates>135.3880479,34.6493269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <name>大阪ヘルスケアパビリオン Nest for Reborn</name>
+            <description>■テーマ: 未来医療のゆりかご ■体験: 最新の再生医療や健康テックを体験できる展示 ■Tips: 血管年齢測定など無料測定イベントに参加しよう ■グルメ: 栄養バランス重視のお弁当やスムージーを提供 ■豆知識: 大阪発の医療イノベーション事例を多数紹介</description>
+            <styleUrl>#198</styleUrl>
+            <Point id="196">
+                <coordinates>135.3872616,34.6508218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="202">
+            <name>ORA外食パビリオン『宴～UTAGE～』</name>
+            <description>■テーマ: 食のエンターテインメント ■体験: シェフの実演とプロジェクションで織りなすグルメショー ■Tips: 昼時は混雑必至。時間に余裕を持って訪問を ■グルメ: 大阪名物たこ焼きから世界各国の料理まで勢揃い ■豆知識: 巨大な鍋型スクリーンで料理映像演出が圧巻</description>
+            <styleUrl>#203</styleUrl>
+            <Point id="201">
+                <coordinates>135.3813479,34.651732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>Better Co-Being</name>
+            <description>■テーマ: 共生のデザイン ■体験: 多様な命のつながりを体感する没入型インスタレーション ■Tips: 静かに鑑賞できる午前中が狙い目 ■グルメ: オーガニックハーブティーのサービスで一息 ■豆知識: 来場者の動きで映像が変化するインタラクティブ演出</description>
+            <styleUrl>#208</styleUrl>
+            <Point id="206">
+                <coordinates>135.3836117,34.6490281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="212">
+            <name>いのち動的平衡館</name>
+            <description>■テーマ: 生命のバランス ■体験: 顕微鏡映像や培養アートで生命の不思議を実感 ■Tips: 解説をじっくり読みたいなら閉館前の空き時間がおすすめ ■グルメ: 発酵食品を通じて腸内細菌の働きを学べるコーナーあり ■豆知識: 細胞の動きをリアルタイムで映し出す大型スクリーンが圧巻</description>
+            <styleUrl>#213</styleUrl>
+            <Point id="211">
+                <coordinates>135.3825642,34.6478772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="217">
+            <name>EARTH MART</name>
+            <description>■テーマ: 未来の市場 ■体験: 未来の食材や商品が並ぶ体験型マーケット展示 ■Tips: 商品棚をじっくり見るなら午前中が比較的空いている ■グルメ: 昆虫食チップスや培養肉バーガーなど試食ができる ■豆知識: 買い物気分でSDGsを学べるユニークな演出</description>
+            <styleUrl>#218</styleUrl>
+            <Point id="216">
+                <coordinates>135.3828432,34.6485976,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="222">
+            <name>Dialogue Theater – いのちのあかし –</name>
+            <description>■テーマ: 生命への讃歌 ■体験: 命の物語を描く映像シアターで心揺さぶる体験 ■Tips: 上映開始時間を確認して着席しよう ■グルメ: 鑑賞後にハーブティーの無料サービスでクールダウン ■豆知識: 河瀨直美監督による魂に響く映像美は必見</description>
+            <styleUrl>#223</styleUrl>
+            <Point id="221">
+                <coordinates>135.3829472,34.6488657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <name>北欧館（フィンランド共和国）</name>
+            <description>■テーマ: 北欧の英知 ■体験: 北欧5か国が共創するサステナ展示と自然体験 ■Tips: 比較的回転が速く、隙間時間に立ち寄りやすい ■グルメ: シナモンロールやサーモンスープなど北欧グルメを提供 ■豆知識: 教育先進国フィンランドのデジタル教材体験も</description>
+            <styleUrl>#228</styleUrl>
+            <Point id="226">
+                <coordinates>135.3841807,34.6473345,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

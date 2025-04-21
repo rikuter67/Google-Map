@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="19">
+            <IconStyle id="20">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24">
+            <IconStyle id="25">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="26">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29">
+            <IconStyle id="30">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34">
+            <IconStyle id="35">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="39">
+            <IconStyle id="40">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="41">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44">
+            <IconStyle id="45">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="46">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="49">
+            <IconStyle id="50">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="51">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54">
+            <IconStyle id="55">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="3">
+            <name>日本館</name>
+            <description>■テーマ: 循環 (Circulation) ■体験: ゲーム感覚で未来社会を冒険 ■Tips: 朝一番の整理券入手がおすすめ ■グルメ: 和食の宇宙食試食あり？ ■豆知識: 屋根に全国の木材を使用したサステナ建築</description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>135.3879274,34.6482203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>サウジアラビアパビリオン</name>
+            <description>■テーマ: Earth to Sky ■体験: 巨大LED砂嵐や香水調合の体験 ■Tips: 17時以降なら待ち時間30分以下に ■グルメ: 中東デーツとアラビアコーヒーでおもてなし ■豆知識: 太陽光パネルを埋め込んだ外壁が特徴</description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>135.3826724,34.6512014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>イタリアパビリオン</name>
+            <description>■テーマ: Art regenerates Life&amp;#8203;:contentReference[oaicite:1]{index=1} ■体験: ルネサンス劇場ショーと3Dプリントピザ実演 ■Tips: 午後2時以降は行列が短め ■グルメ: トリュフ香る特製ピザが名物 ■豆知識: ヴェネツィアンガラスの再利用外装も見所</description>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
+                <coordinates>135.3807557,34.6495551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name>フランスパビリオン</name>
+            <description>■テーマ: Light of Creativity ■体験: 最先端アートとテクノロジーの展示 ■Tips: 午後早めに訪問すると比較的スムーズ ■グルメ: フレンチペストリーやワインバー併設 ■豆知識: エッフェル塔を模したインスタ映えスポットあり</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="17">
+                <coordinates>135.3856866,34.64907609999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>英国パビリオン</name>
+            <description>■テーマ: Innovating for a Shared Future ■体験: AIが紡ぐ未来の詩や光のインスタレーション ■Tips: 夕方のライトアップ時もおすすめ ■グルメ: 紅茶やフィッシュアンドチップスが味わえるパブ併設 ■豆知識: 外壁に英国文学の一節が流れるユニークな演出</description>
+            <styleUrl>#24</styleUrl>
+            <Point id="22">
+                <coordinates>135.3815668,34.6480349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <name>中国パビリオン</name>
+            <description>■テーマ: 人と自然の生命共同体 ■体験: 竹簡デザインの巨大展示で自然と共生の未来を体感 ■Tips: 午前中の比較的空いている時間帯に回るのが吉 ■グルメ: 本格中華点心が味わえる茶館併設 ■豆知識: 竹の巻物を広げたような建築は写真スポット</description>
+            <styleUrl>#29</styleUrl>
+            <Point id="27">
+                <coordinates>135.3841959,34.6486893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>ドイツパビリオン</name>
+            <description>■テーマ: Wa! Germany（循環経済） ■体験: 7つの丸い木造ドームで巡るサステナブル旅 ■Tips: グループで分散入場でき回りやすい ■グルメ: ドイツビールとソーセージのビアガーデンが人気 ■豆知識: 再利用素材で作られた円形パビリオン</description>
+            <styleUrl>#34</styleUrl>
+            <Point id="32">
+                <coordinates>135.3852805,34.6509361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38">
+            <name>UAEパビリオン</name>
+            <description>■テーマ: 未来への飛翔 ■体験: 火星探査や未来都市ドバイのVR体験 ■Tips: 夜のライトアップも必見 ■グルメ: ラクダミルクのアイスクリームが味わえる ■豆知識: 砂漠の砂丘をイメージした流線型の建築</description>
+            <styleUrl>#39</styleUrl>
+            <Point id="37">
+                <coordinates>135.386392,34.6481001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>韓国パビリオン</name>
+            <description>■テーマ: 未来への律動 ■体験: 巨大スクリーンでK-POP映像＆最新技術ショー ■Tips: 約20分で回れる3部構成。午前中が狙い目 ■グルメ: 屋台でトッポッキやキンパも味わえる ■豆知識: 建物正面を覆うK-POP映像演出が圧巻</description>
+            <styleUrl>#44</styleUrl>
+            <Point id="42">
+                <coordinates>135.3848688,34.6509879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="48">
+            <name>GUNDAM NEXT FUTURE PAVILION</name>
+            <description>■テーマ: 未来への進撃 ■体験: 17m実物大ガンダム像と超巨大スクリーンの没入映像 ■Tips: 整理券必須。夕方以降は比較的待ち時間短め ■グルメ: ガンダムカフェの限定ドリンクも登場 ■豆知識: 床振動まで連動した迫力演出にファン熱狂</description>
+            <styleUrl>#49</styleUrl>
+            <Point id="47">
+                <coordinates>135.3799362,34.6510072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>パナソニックグループ パビリオン「ノモの国」</name>
+            <description>■テーマ: Unlock your nature ■体験: 子どもが主人公になれる参加型ファンタジー体験 ■Tips: ファミリー客で午前中混雑。午後がおすすめ ■グルメ: ソーラークッキングのおやつを試食できる ■豆知識: オリジナルアニメのキャラクターが各所に登場</description>
+            <styleUrl>#54</styleUrl>
+            <Point id="52">
+                <coordinates>135.3889537,34.6488468,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
